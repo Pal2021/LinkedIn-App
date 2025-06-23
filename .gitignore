@@ -1,0 +1,20 @@
+# Java
+/target
+*.log
+*.class
+
+# Maven
+.mvn
+.settings/
+.idea/
+
+# Docker
+**/logs
+**/.env
+
+# OS
+.DS_Store
+Thumbs.db
+# Ignore architecture/design PNG images
+Linked_In_*.png
+Rough_Linked_In_Design_*.png
